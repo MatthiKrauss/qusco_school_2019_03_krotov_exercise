@@ -8,4 +8,4 @@ dependencies:
   - pip:
     - matplotlib
     - watermark
-	- git+https://github.com/qucontrol/krotov.git@master#egg=krotov
+    - git+https://github.com/qucontrol/krotov.git@master#egg=krotov
